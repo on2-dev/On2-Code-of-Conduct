@@ -12,7 +12,7 @@ The current admins are:
 * Felipe N. M.
 * Jaydson N. G.
 
-We want this to be a fun, pleasant, and harassment-free experience for everyone, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, or religion. We do not tolerate harassment of participants in any form. Participants asked to stop any harassing behavior are expected to comply immediately.
+We want this to be a fun, pleasant, and harassment-free experience for everyone, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, ethnicity, or religion. We do not tolerate harassment of participants in any form. Participants asked to stop any harassing behavior are expected to comply immediately.
 
 Discretion & Confidentiality:
 -----------------------------
@@ -34,7 +34,7 @@ Harassment:
 No form of harassment is allowed in this server.  
 Harassment includes:
 
-* Offensive comments related to gender, gender identity and expression, sexual orientation, disability, mental illness, neuro(a)typicality, physical appearance, body size, race, or religion
+* Offensive comments related to gender, gender identity and expression, sexual orientation, disability, mental illness, neuro(a)typicality, physical appearance, body size, ethnicity, or religion
 * Unwelcome comments regarding a person’s lifestyle choices and practices, including those related to food, health, parenting, drugs, and employment.
 * Deliberate misgendering or use of ‘dead’ or rejected names
 * Sexual images or behavior
